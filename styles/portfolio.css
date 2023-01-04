@@ -5,7 +5,7 @@
 .text-primary {
     color: #FD6E0A;
 }
-.btn-primary {
+.btn-primary, .contact-btn {
     color: #FFFFFF;
     font-weight: 700;
     font-size: 20px;
@@ -18,15 +18,9 @@
     padding: 18px 35px;
 }
 .contact-btn {
-    font-weight: 700;
-    font-size: 20px;
-    height: 64px;
-    line-height: 27px;
-    border-radius: 5px;
-    padding: 18px 35px;
     color: #FD6E0A;
-    border: 1px solid #FD6E0A;
     background: transparent;
+    border: 1px solid #FD6E0A;
     margin-left: 30px;
 
 }
